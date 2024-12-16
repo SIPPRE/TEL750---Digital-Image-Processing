@@ -45,18 +45,10 @@ To get started with the course materials:
 ## Instructor
 
 **Dr. Athanasios Koutras**  
-Associate Professor, Department of Electrical & Computer Engineering, University of Peloponnese.  
+Associate Professor, Department of Electrical & Computer Engineering, University of Peloponnese.
+SIPPRE Group
 Email: [koutras@uop.gr](mailto:koutras@uop.gr)
 
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
-
----
-
-For more information about the Department of Electrical & Computer Engineering, visit the [official website](https://www.ece.uop.gr/en/).
-```
-
-This `README.md` provides an overview of the course, outlines the repository structure, and offers guidance on how to utilize the materials. It also includes contact information and a link to the department's website for further reference.
-
-*Note: Specific details such as the course assessment methods and prerequisites are based on common practices in digital image processing courses and may need to be adjusted to align with the actual course syllabus.* 
